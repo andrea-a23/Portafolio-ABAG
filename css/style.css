@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: #00000;
+}
+header{
+	background-image: url( "../img/white-background-with-water-color-rainbow-vector-4919737.jpg");
+	background-size:cover;
+	padding: 40px 40px;
+	background-repeat: no-repeat;
+	width: 100%;
+	position: relative;
+}
+
+
+.navbar{
+	background-color: transparent !important;
+}
+.navbar:hover{
+	color: #FAC3F6;
+}
+.fab{
+	background-color: #F7AAE9;
+	background-size: auto;
+	font-size: 20px;
+	color: #00000;
+	border-radius: 100%;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.fab:hover{
+	background-color: #ffffff;
+	color: #970002;
+}
+.section{
+	padding: 40px;
+	min-height: 300px;
+}
+
+
+
+
+.btn-block{
+	background-color: #47D0FC;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	width: 200px;
+	border-radius: 25px;
+	letter-spacing: 2px;
+}
+footer{
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	padding: 5% 0;
+}
+.titulo{
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Lobster', cursive;
+}
+#about h1{
+	font-size: 60px;
+	font-family: 'Lobster', cursive;
+	color: #F69FD4;
+	
+}
+#about{
+	padding-bottom: 40px;
+}
+
+
+
+#services h4{
+	font-weight: bold;
+}
+.fas{
+	background-color: #FFF700;
+	font-size: 25px;
+	text-align: center;
+	color: #ffffff;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	z-index: 100px;
+}
+#hero{
+	padding: 10px 0px 10px 30px;
+}
+
+
+
+.btn-white{
+	color: #ffffff;
+	background-color: #970002;
+	text-transform: uppercase;
+	font-weight: bold;
+	width: 200px;
+	border-radius: 25px;
+	letter-spacing: 4px;
+}
+#contact{
+	padding: 5px 0px 30px 0px;
+}
+#contact h4{
+	text-align: center;
+}
+
+
+
+footer{
+	background-color:#FFF;
+	color:#F9C415;	
+
+}
+
+
+
+footer img{
+	 margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.responsive{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
